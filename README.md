@@ -1,4 +1,4 @@
-# Project Name: Tesla Stock Change Notifier
+# Tesla Stock Monitor: Text Message Alerts for Tesla Stock Market Changes
 
 ## Overview
 The objective of this project was to create a notification service that sends a text message to the user’s mobile device when Tesla’s stock has experienced a greater than 5% change in its closing price. The text message includes relevant news about Tesla within that time period. The project utilized the Alphavantage API to obtain the closing prices of Tesla stock, the News API to retrieve the top headlines related to Tesla for a given time period, and the Twilio API to send a text message to the user’s phone.
